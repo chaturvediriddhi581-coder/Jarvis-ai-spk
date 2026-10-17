@@ -1,0 +1,6 @@
+{
+  "name": "Rudraksh JARVIS AI",
+  "description": "Futuristic, intelligent Iron Man-inspired AI assistant with voice interaction, Google Search grounding, Hindi and English bilingual support, daily productivity tools, and holographic HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
